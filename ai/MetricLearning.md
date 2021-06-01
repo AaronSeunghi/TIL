@@ -11,7 +11,7 @@ Deep Metric Learning은, 신경망을 사용하여 metric learning을 하는 분
 ### Constrative Embedding
 2개의 샘플에 대해 적용한다. 
 
-각각의 tuple (**x**<sub>i</sub>, **x**<sub>j</sub>, y<sub>ij</sub>)에 대해 같은 class이면 가깝게, 다른 class이면 멀게 되도록 embedding ft.을 학습한다. '멀게'의 유효 최대치는 hyperparameter인 𝞪로 설정한다.
+각각의 tuple (**x**<sub>i</sub>, **x**<sub>j</sub>, y<sub>ij</sub>)에 대해 같은 class이면 가깝게, 다른 class이면 특정 threshold 𝞪 이상 멀어지도록 embedding ft.을 학습한다.
 
 
 ### Triplet Embedding
