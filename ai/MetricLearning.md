@@ -15,7 +15,7 @@ Deep Metric Learning은, 신경망을 사용하여 metric learning을 하는 분
 
 
 ### Triplet Embedding
-3개의 샘플(anchor sample, positive sample, negative sample)에 대해 적용한다.
+3개의 샘플(anchor sample, positive sample, negative sample)에 대해 적용한다. 가장 자주 쓰이는 방법이며, 간단히 positive는 가깝게, negative는 멀리.
 
 (anchor와 positive 간의 거리)와 (anchor와 negative 간의 거리)의 차이가 크게 되도록 학습한다.
 
