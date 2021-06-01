@@ -11,7 +11,7 @@
 * [AI](#ai)
 * [Markdown](#markdown)
 * [Python](#python)
-* [Financial](#financial)
+* [Misc](#misc)
 
 
 ---
@@ -26,6 +26,6 @@
 - [pytest](python/pytest.md)
 
 
-### Financial
-- [계좌자동이체변경](financial/ChangeSweepAccount.md)
-- [전세금보장신용보험](financial/InsuranceOfHouseRentDeposit.md)
+### Misc
+- [계좌자동이체변경](misc/ChangeSweepAccount.md)
+- [전세금보장신용보험](misc/InsuranceOfHouseRentDeposit.md)
