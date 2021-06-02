@@ -11,6 +11,7 @@
 * [AI](#ai)
 * [Markdown](#markdown)
 * [Python](#python)
+* [GitHub](#github)
 * [Misc](#misc)
 
 
@@ -25,6 +26,9 @@
 ### Python
 - [pytest](python/pytest.md)
 
+
+### GitHub
+- [저장소 주소를 SSH 주소로 바꾸는 방법](github/ConvertToSshAddress.md)
 
 ### Misc
 - [계좌자동이체변경](misc/ChangeSweepAccount.md)
