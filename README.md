@@ -31,5 +31,5 @@
 - [저장소 주소를 SSH 주소로 바꾸는 방법](github/ConvertToSshAddress.md)
 
 ### Misc
-- [계좌자동이체변경](misc/ChangeSweepAccount.md)
-- [전세금보장신용보험](misc/InsuranceOfHouseRentDeposit.md)
+- [계좌자동이체변경](Misc/ChangeSweepAccount.md)
+- [전세금보장신용보험](Misc/InsuranceOfHouseRentDeposit.md)
